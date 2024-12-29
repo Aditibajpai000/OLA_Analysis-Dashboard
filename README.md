@@ -1,4 +1,7 @@
 # OLA_Analysis-Dashboard
+
+OLA is a leading ride-hailing and mobility platform offering transportation services through its app-based ecosystem. It connects passengers with drivers for various types of rides, including cabs, auto-rickshaws, and bikes, while also providing services such as rentals and outstation travel. Known for its real-time tracking, dynamic pricing, and focus on customer satisfaction, OLA leverages technology to enhance urban mobility and simplify commuting.
+
 <br>
 1. Built a comprehensive Power BI dashboard to analyze OLA's operational data, delivering real-time insights into key performance indicators (KPIs) such as ride completion rates, driver performance, revenue per trip, and customer satisfaction scores.
 <br>
